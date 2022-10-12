@@ -11,9 +11,9 @@ a type of resume as I search for employment.
 This webpage uses HTML and CSS
 
 ## Setup/Installation Requirements
-*Clone this repository to your desktop
-*Navigate to the top level of the directory
-*Open first-webpage.html
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open first-webpage.html
 
 
 ## Known Bugs
