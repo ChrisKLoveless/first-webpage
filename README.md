@@ -3,7 +3,7 @@
 Chris Loveless
 
 ## Description
-This project is my personal webpage and is being updated regularly. It
+This project is practice for my personal webpage. It
 will include information about me, my portfolio projects, and serve as 
 a type of resume as I search for employment.
 
